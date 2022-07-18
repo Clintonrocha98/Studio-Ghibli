@@ -1,0 +1,11 @@
+.paragrafo{
+    position: absolute;
+    color: #F9F9F9;
+    height: 87px;
+    top: 250px;
+
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+}
