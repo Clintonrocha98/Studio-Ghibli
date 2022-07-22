@@ -16,3 +16,13 @@
     }
 
 }
+
+@media (max-width: 590px){
+    .rs-logo {
+        display: none;
+    }
+    .caixa-title{
+        top: 70%;
+
+    }
+}
