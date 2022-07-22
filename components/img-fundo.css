@@ -1,0 +1,11 @@
+.img-fundo{
+    position: absolute;
+    width: 500px;
+    height: 369.84px;
+    left: 60%;
+    top: 20%;
+    transition: 0.1s;
+}
+.img-fundo:hover{
+    transform: scale(120%);
+}

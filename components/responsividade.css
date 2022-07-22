@@ -1,0 +1,18 @@
+@media(max-width: 1080px){
+    .background-config{
+        overflow: inherit;
+    }
+    .caixa-title{
+        top: 55%;
+
+    }
+    .img-fundo {
+        left: 13%;
+        top: 5%;
+
+    }
+    .logo {
+        padding-left: 120px;
+    }
+
+}

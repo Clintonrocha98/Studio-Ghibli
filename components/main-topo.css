@@ -1,7 +1,7 @@
 .main-topo{
     display: flex;
     height: 200px;
-    width: 1440px;
+    width: 100%;
 }
 .logo{
     width: 100px;
@@ -11,14 +11,16 @@
 }
 .rs-logo{
     display: flex;
-    height: 24px;
-    width: 183px;
     padding-top: 52px;
-    padding-right: 185px;
-    right: 0;
+    right: 2%;
+    
     position: absolute;
 }
 .rs-logo div{
     padding-left: 29px;
     padding-right: 29px;
+}
+.rs-logo div:hover{
+    cursor: pointer;
+    transform: scale(150%);
 }

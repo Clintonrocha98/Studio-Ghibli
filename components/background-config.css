@@ -1,4 +1,7 @@
 .background-config{
-    background: linear-gradient(270deg, #1A4855 0%, #628E75 100%);
-    width: 1440px;
+    background-color:  #1A4855;
+    background-size: auto auto;
+    width: 100vw;
+    height: 100Vh;
+    overflow: hidden;
 }
