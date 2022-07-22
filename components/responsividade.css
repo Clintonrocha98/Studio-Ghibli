@@ -12,12 +12,12 @@
 
     }
     .logo {
-        padding-left: 120px;
+        padding-left: 10%;
     }
 
 }
 
-@media (max-width: 590px){
+@media (max-width: 510px){
     .rs-logo {
         display: none;
     }
